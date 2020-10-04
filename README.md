@@ -12,3 +12,11 @@ Ref.: https://pt.wikipedia.org/wiki/Celsius
 
 °C = 0
 0°C equivalem a 32°F
+
+**Como executar**
+
+Acesse a pasta do projeto e digite:
+
+```
+dotnet run 
+```
